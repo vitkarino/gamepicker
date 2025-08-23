@@ -9,7 +9,7 @@ const UI = new GamePickerUI();
 		<input
 			v-model="input"
 			type="text"
-			placeholder="Enter your Steam ID, custom URL, or Steam profile URL"
+			placeholder="Enter your Steam ID or profile URL"
 			autocomplete="off"
 			spellcheck="false"
 		/>
